@@ -1,3 +1,5 @@
+import Foundation
+import PlaygroundSupport
 
 /// Function is used to determine index of given value in a given array. If there isn't given value in the given array function return nil.
 ///
@@ -61,5 +63,7 @@ findIndex(of: "y", in: strings)
  log(128*2) = 8.
  
  **Ответ:** Увеличится на одну проверку.
+ 
+ [Selection sorting](@next)
  
  */
