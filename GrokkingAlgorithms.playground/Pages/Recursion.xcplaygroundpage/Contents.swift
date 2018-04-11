@@ -13,4 +13,15 @@ func countdown(_ point: Int) {
     
 }
 
+func factorial(_ value: Int) -> Int {
+    
+    if value == 1 {
+        return value
+    } else {
+        return value*factorial(value-1)
+    }
+    
+}
+
 countdown(5)
+factorial(5)
