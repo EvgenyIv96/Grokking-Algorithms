@@ -110,3 +110,5 @@ count([])
 count([1])
 count(["hello", "bye", "1233", "555"])
 findBiggest([1, 11, 3, 5, 3, 8])
+
+//: [Quick sorting](@next)

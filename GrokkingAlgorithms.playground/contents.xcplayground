@@ -4,5 +4,6 @@
         <page name='Binary search'/>
         <page name='Selection sorting'/>
         <page name='Recursion'/>
+        <page name='Quick sorting'/>
     </pages>
 </playground>
