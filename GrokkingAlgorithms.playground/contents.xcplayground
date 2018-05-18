@@ -5,5 +5,6 @@
         <page name='Selection sorting'/>
         <page name='Recursion'/>
         <page name='Quick sorting'/>
+        <page name='Dijkstra’s algorithm'/>
     </pages>
 </playground>
